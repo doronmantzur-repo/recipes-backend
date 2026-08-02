@@ -1,0 +1,191 @@
+[
+  {
+    "id": "a1f2c3d4-1111-4aaa-8222-9f9f9f9f9f01",
+    "user_id": "44444444-dddd-4ddd-eeee-ffffffff0004",
+    "title": "Classic Spaghetti Bolognese",
+    "description": "Rich tomato and beef sauce served over spaghetti.",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onion",
+      "garlic"
+    ],
+    "instructions": ["Boil pasta", "Cook beef", "Add sauce", "Simmer", "Serve"],
+    "cooking_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "image_url": "/uploads/spaghetti.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:00:00.000Z",
+    "updated_at": "2026-07-29T12:00:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-2222-4aaa-8333-9f9f9f9f9f02",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Chicken Caesar Salad",
+    "description": "Crisp romaine lettuce with grilled chicken and Caesar dressing.",
+    "ingredients": [
+      "chicken breast",
+      "romaine lettuce",
+      "croutons",
+      "parmesan",
+      "Caesar dressing"
+    ],
+    "instructions": [
+      "Grill chicken",
+      "Chop lettuce",
+      "Mix ingredients",
+      "Add dressing"
+    ],
+    "cooking_time": 20,
+    "servings": 2,
+    "difficulty": "easy",
+    "image_url": "/uploads/caesar.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:01:00.000Z",
+    "updated_at": "2026-07-29T12:01:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-3333-4aaa-8444-9f9f9f9f9f03",
+    "user_id": "44444444-dddd-4ddd-eeee-ffffffff0004",
+    "title": "Beef Stir Fry",
+    "description": "Quick stir-fried beef with vegetables.",
+    "ingredients": [
+      "beef strips",
+      "soy sauce",
+      "broccoli",
+      "carrots",
+      "ginger"
+    ],
+    "instructions": [
+      "Slice beef",
+      "Stir fry vegetables",
+      "Add beef",
+      "Add sauce"
+    ],
+    "cooking_time": 25,
+    "servings": 3,
+    "difficulty": "medium",
+    "image_url": "/uploads/stirfry.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:02:00.000Z",
+    "updated_at": "2026-07-29T12:02:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-4444-4aaa-8555-9f9f9f9f9f04",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Vegetable Curry",
+    "description": "A creamy coconut curry packed with vegetables.",
+    "ingredients": [
+      "coconut milk",
+      "potatoes",
+      "carrots",
+      "peas",
+      "curry paste"
+    ],
+    "instructions": [
+      "Sauté vegetables",
+      "Add curry paste",
+      "Add coconut milk",
+      "Simmer"
+    ],
+    "cooking_time": 35,
+    "servings": 4,
+    "difficulty": "medium",
+    "image_url": "/uploads/curry.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:03:00.000Z",
+    "updated_at": "2026-07-29T12:03:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-5555-4aaa-8666-9f9f9f9f9f05",
+    "user_id": "44444444-dddd-4ddd-eeee-ffffffff0004",
+    "title": "Homemade Pizza",
+    "description": "Crispy crust pizza with customizable toppings.",
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella", "pepperoni"],
+    "instructions": ["Roll dough", "Add sauce", "Add toppings", "Bake"],
+    "cooking_time": 30,
+    "servings": 2,
+    "difficulty": "easy",
+    "image_url": "/uploads/pizza.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:04:00.000Z",
+    "updated_at": "2026-07-29T12:04:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-6666-4aaa-8777-9f9f9f9f9f06",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Grilled Salmon",
+    "description": "Perfectly grilled salmon with lemon and herbs.",
+    "ingredients": ["salmon fillet", "lemon", "olive oil", "dill"],
+    "instructions": ["Season salmon", "Grill", "Serve with lemon"],
+    "cooking_time": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "image_url": "/uploads/salmon.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:05:00.000Z",
+    "updated_at": "2026-07-29T12:05:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-7777-4aaa-8888-9f9f9f9f9f07",
+    "user_id": "44444444-dddd-4ddd-eeee-ffffffff0004",
+    "title": "Chocolate Cake",
+    "description": "Moist chocolate cake with rich frosting.",
+    "ingredients": ["flour", "cocoa powder", "eggs", "sugar", "butter"],
+    "instructions": ["Mix ingredients", "Bake", "Frost"],
+    "cooking_time": 60,
+    "servings": 8,
+    "difficulty": "hard",
+    "image_url": "/uploads/cake.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:06:00.000Z",
+    "updated_at": "2026-07-29T12:06:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-8888-4aaa-8999-9f9f9f9f9f08",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Avocado Toast",
+    "description": "Simple and delicious avocado toast.",
+    "ingredients": ["bread", "avocado", "salt", "pepper"],
+    "instructions": ["Toast bread", "Mash avocado", "Spread", "Season"],
+    "cooking_time": 10,
+    "servings": 1,
+    "difficulty": "easy",
+    "image_url": "/uploads/avocado.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:07:00.000Z",
+    "updated_at": "2026-07-29T12:07:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-9999-4aaa-8111-9f9f9f9f9f09",
+    "user_id": "44444444-dddd-4ddd-eeee-ffffffff0004",
+    "title": "Tomato Soup",
+    "description": "Creamy tomato soup perfect for cold days.",
+    "ingredients": ["tomatoes", "cream", "onion", "garlic"],
+    "instructions": ["Cook tomatoes", "Blend", "Simmer"],
+    "cooking_time": 25,
+    "servings": 3,
+    "difficulty": "easy",
+    "image_url": "/uploads/soup.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:08:00.000Z",
+    "updated_at": "2026-07-29T12:08:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-aaaa-4aaa-8222-9f9f9f9f9f10",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Pancakes",
+    "description": "Fluffy pancakes with maple syrup.",
+    "ingredients": ["flour", "milk", "eggs", "syrup"],
+    "instructions": ["Mix batter", "Cook on skillet", "Serve"],
+    "cooking_time": 15,
+    "servings": 4,
+    "difficulty": "easy",
+    "image_url": "/uploads/pancakes.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:09:00.000Z",
+    "updated_at": "2026-07-29T12:09:00.000Z"
+  }
+]

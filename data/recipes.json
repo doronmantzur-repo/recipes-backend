@@ -1,0 +1,127 @@
+[
+  {
+    "id": "a1f2c3d4-2222-4aaa-8333-9f9f9f9f9f02",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Chicken Caesar Salad",
+    "description": "Crisp romaine lettuce with grilled chicken and Caesar dressing.",
+    "ingredients": [
+      "chicken breast",
+      "romaine lettuce",
+      "croutons",
+      "parmesan",
+      "Caesar dressing"
+    ],
+    "instructions": [
+      "Grill chicken",
+      "Chop lettuce",
+      "Mix ingredients",
+      "Add dressing"
+    ],
+    "cooking_time": 20,
+    "servings": 2,
+    "difficulty": "easy",
+    "image_url": "/uploads/caesar.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:01:00.000Z",
+    "updated_at": "2026-07-29T12:01:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-4444-4aaa-8555-9f9f9f9f9f04",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Vegetable Curry",
+    "description": "A creamy coconut curry packed with vegetables.",
+    "ingredients": [
+      "coconut milk",
+      "potatoes",
+      "carrots",
+      "peas",
+      "curry paste"
+    ],
+    "instructions": [
+      "Sauté vegetables",
+      "Add curry paste",
+      "Add coconut milk",
+      "Simmer"
+    ],
+    "cooking_time": 35,
+    "servings": 4,
+    "difficulty": "medium",
+    "image_url": "/uploads/curry.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:03:00.000Z",
+    "updated_at": "2026-07-29T12:03:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-6666-4aaa-8777-9f9f9f9f9f06",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Grilled Salmon",
+    "description": "Perfectly grilled salmon with lemon and herbs.",
+    "ingredients": [
+      "salmon fillet",
+      "lemon",
+      "olive oil",
+      "dill"
+    ],
+    "instructions": [
+      "Season salmon",
+      "Grill",
+      "Serve with lemon"
+    ],
+    "cooking_time": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "image_url": "/uploads/salmon.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:05:00.000Z",
+    "updated_at": "2026-07-29T12:05:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-8888-4aaa-8999-9f9f9f9f9f08",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Avocado Toast",
+    "description": "Simple and delicious avocado toast.",
+    "ingredients": [
+      "bread",
+      "avocado",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Toast bread",
+      "Mash avocado",
+      "Spread",
+      "Season"
+    ],
+    "cooking_time": 10,
+    "servings": 1,
+    "difficulty": "easy",
+    "image_url": "/uploads/avocado.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:07:00.000Z",
+    "updated_at": "2026-07-29T12:07:00.000Z"
+  },
+  {
+    "id": "a1f2c3d4-aaaa-4aaa-8222-9f9f9f9f9f10",
+    "user_id": "11111111-aaaa-4aaa-bbbb-cccccccc0001",
+    "title": "Pancakes",
+    "description": "Fluffy pancakes with maple syrup.",
+    "ingredients": [
+      "flour",
+      "milk",
+      "eggs",
+      "syrup"
+    ],
+    "instructions": [
+      "Mix batter",
+      "Cook on skillet",
+      "Serve"
+    ],
+    "cooking_time": 15,
+    "servings": 4,
+    "difficulty": "easy",
+    "image_url": "/uploads/pancakes.jpg",
+    "is_public": true,
+    "created_at": "2026-07-29T12:09:00.000Z",
+    "updated_at": "2026-07-29T12:09:00.000Z"
+  }
+]
